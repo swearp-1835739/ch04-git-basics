@@ -26,3 +26,6 @@ Learn the basics of git workflow, including adding new files.
 `git push`
 
 6. check the repo on your github account.  Did it work?
+
+![Barry B Benson](barryb.jpg)
+Barry B Benson is the star of the hit **Bee Movie**. The Bee Movie is an iconic work of art from the modern era. This film is on par with the Shrek movies in terms of impact on youth in america.
